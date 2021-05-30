@@ -9,4 +9,8 @@ public class testGit {
         System.out.println("jiba");
         System.out.println("jiba");
     }
+    public void fku(){
+        int i = 10;
+        i += 12;
+    }
 }
